@@ -2,7 +2,7 @@
 #
 # https://github.com/FelixKrueger/Bismark
 
-FROM python:3
+FROM python:3.10.0b2
 
 MAINTAINER Anne Deslattes Mays, PhD adeslat@scitechcon.org
 
